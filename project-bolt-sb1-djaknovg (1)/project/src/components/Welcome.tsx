@@ -68,7 +68,7 @@ const Welcome: React.FC = () => {
         </div>
         <div className="w-1/2 flex justify-center">
           <img
-            src="https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22photo.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-04-28T19%3A04%3A43.952Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F7eb37a01b11241ba%2Fphoto.jpg%3FExpires%3D1840561484%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DmcOxp2IFIjf2XAKzbiqJ0-QSc2lj4~jbk1KOXkhWdMStnt0xYgYGsTGerusccrb3S1GyNgntToh02pkO45EkvK2rOg~zFKYy6RJ8D7EAnLQbmESjqPyJZ0LvZL5CeTS2pLhgFQRzsWyBn2I91Q4GBs~A0ZJ-2Z2ivQPSAwUI6o-y1tWkVv4ormE-yOo0QKdswYP1-~Fal1MXUizgafT1JfADUiFynkPJapxohGdzZP117dEqVqxvW9HKh2JLRZ58UqmGt2hWLsoH6szGK01QrjDKauNz7OIv9B8yx2sH0D9VKtWgNpGtOXDtjyXy2akEmP5Cp7RnXst7hccAJK8PTA__%22%7D"
+            src="https://media-hosting.imagekit.io/7eb37a01b11241ba/photo.jpg?Expires=1840561484&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=mcOxp2IFIjf2XAKzbiqJ0-QSc2lj4~jbk1KOXkhWdMStnt0xYgYGsTGerusccrb3S1GyNgntToh02pkO45EkvK2rOg~zFKYy6RJ8D7EAnLQbmESjqPyJZ0LvZL5CeTS2pLhgFQRzsWyBn2I91Q4GBs~A0ZJ-2Z2ivQPSAwUI6o-y1tWkVv4ormE-yOo0QKdswYP1-~Fal1MXUizgafT1JfADUiFynkPJapxohGdzZP117dEqVqxvW9HKh2JLRZ58UqmGt2hWLsoH6szGK01QrjDKauNz7OIv9B8yx2sH0D9VKtWgNpGtOXDtjyXy2akEmP5Cp7RnXst7hccAJK8PTA__"
             alt="Snehith"
             className="w-96 h-96 object-cover rounded-2xl shadow-2xl"
           />
