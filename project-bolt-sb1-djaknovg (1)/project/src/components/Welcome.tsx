@@ -68,7 +68,7 @@ const Welcome: React.FC = () => {
         </div>
         <div className="w-1/2 flex justify-center">
           <img
-            src="C:\Users\narla\Downloads\project-bolt-sb1-djaknovg (1)\project"
+            src="project-bolt-sb1-djaknovg (1)\project\photo.jpg"
             alt="Snehith"
             className="w-96 h-96 object-cover rounded-2xl shadow-2xl"
           />
