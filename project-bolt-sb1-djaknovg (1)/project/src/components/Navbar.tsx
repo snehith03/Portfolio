@@ -34,7 +34,7 @@ const Navbar: React.FC = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center space-x-4">
             <img
-              src="C:\Users\narla\Downloads\project-bolt-sb1-djaknovg (1)\project"
+              src="https://media-hosting.imagekit.io/7eb37a01b11241ba/photo.jpg?Expires=1840561484&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=mcOxp2IFIjf2XAKzbiqJ0-QSc2lj4~jbk1KOXkhWdMStnt0xYgYGsTGerusccrb3S1GyNgntToh02pkO45EkvK2rOg~zFKYy6RJ8D7EAnLQbmESjqPyJZ0LvZL5CeTS2pLhgFQRzsWyBn2I91Q4GBs~A0ZJ-2Z2ivQPSAwUI6o-y1tWkVv4ormE-yOo0QKdswYP1-~Fal1MXUizgafT1JfADUiFynkPJapxohGdzZP117dEqVqxvW9HKh2JLRZ58UqmGt2hWLsoH6szGK01QrjDKauNz7OIv9B8yx2sH0D9VKtWgNpGtOXDtjyXy2akEmP5Cp7RnXst7hccAJK8PTA__"
               alt="Profile"
               className="w-10 h-10 rounded-full object-cover border-2 border-indigo-400"
             />
